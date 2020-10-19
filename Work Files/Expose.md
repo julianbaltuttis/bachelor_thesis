@@ -46,11 +46,9 @@ Advisor: Dr. Ringo Baumann
 
 ## Research Question
 
-- How do existing Semantics compare in evaluating *Weighted Bipolar Argumentation Graphs*?
-- Are current available Semantics for evaluating *Weighted Bipolar Argumentation Graphs* sufficient to analyse the strength of arguments?
-- How do existing Evaluation Semantics compare in regards to their results and satisfaction of axioms?
-- How do existing Semantics for evaluating *Weighted Bipolar Argumentation Graphs* compare in regards to their results and implementation of foundational principles?
-- Do existing Semantics for evaluating *Weighted Bipolar Argumentation Graphs* produce sufficient and reliable results?
+How do existing Semantics for evaluating *Weighted Bipolar Argumentation Graphs* compare in regards to their results and implementations of foundational principles?
+
+
 
 
 
@@ -61,6 +59,13 @@ Advisor: Dr. Ringo Baumann
 ## Purpose
 
 ## Structure
+
+## Bibliography
+
+- Amgoud L. & Ben-Naim J. (2018): "Evaluation of Arguments in Weighted Bipolar Graphs", *International Journal of Approximate Reasoning*, 99:39-55.
+- Dung, P.M. (1995): "On the acceptability of arguments and its fundamental role in nonmonotonic reasoning, logic programming and *n*-person games", *Artificial Intelligence*, 77(I2):321-357.
+- Mossakowski T. & Neuhaus F. (2018): "Modular Semantics and Characteristics for Bipolar Weighted
+  Argumentation Graphs", *Journal of Artiﬁcial Intelligence Research* 1:1-15.
 
 ## Checklist
 
