@@ -48,7 +48,36 @@ Advisor: Dr. Ringo Baumann
 
 How do existing Semantics for evaluating *Weighted Bipolar Argumentation Graphs* compare in regards to their results and implementations of foundational principles?
 
+## Hypothesis
 
+> A hypothesis is a statement that can be tested by scientific research.  If you want to test a relationship between two or more things, you need  to write hypotheses before you start your [experiment](https://www.scribbr.com/methodology/experimental-design/) or data collection.
+
+Note that ...
+
+- a hypothesis must be testable. 
+- Limit the scope of testability to a domain that can feasibly be explored. 
+- The hypothesis should be capable of falsiﬁcation. Vague claims are unlikely to meet this criterion.
+- The exercise of reﬁning and clarifying a hypothesis may expose that it is **not** worth pursuing.
+
+Beware the Blackbox hypothesis:
+
+![image-20201028091948227](Expose.assets/image-20201028091948227.png)
+
+### Variables in hypotheses
+
+Hypotheses propose a relationship between two or more [variables](https://www.scribbr.com/methodology/independent-and-dependent-variables/). An independent variable is something the researcher changes or controls. A dependent variable is something the researcher observes and measures.
+
+> Daily apple consumption leads to fewer doctor’s visits.
+
+In this example, the independent variable is apple consumption — the assumed cause. The dependent variable is the frequency of doctor’s visits — the assumed effect.
+
+### Ideas
+
+- Existing Semantics for WAGs can deterministically define the strength of arguments.
+- We assume that Euler Based Graded Semantics are sufficient to evaluate arguments.
+- 
+
+![image-20201027101524987](Expose.assets/image-20201027101524987.png)
 
 
 

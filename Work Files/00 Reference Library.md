@@ -46,6 +46,11 @@ design alternatives with quantitative argumentation. Argument & Comp. 6(1) (2015
 
  [Baroni (2015) - Automatic Evaluation of Design Alternatives.pdf](..\Assets\Baroni (2015) - Automatic Evaluation of Design Alternatives.pdf) 
 
+- Introduces *QuAD*.
+- presents a novel argumentation framework to support IBIS-style debates on design alternatives.
+- Provides an automatic quantitative evaluation
+- Describes the integration within the designVUE software tool along with three case studies in engineering design.
+
 ## Brewka
 
 ### Abstract Dialectical Frameworks
